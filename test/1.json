@@ -538,15 +538,15 @@
 			  "api": "csp_XBPQ",
 			  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xiaosa.jar",
 			  "ext": {
-				"请求头": "手机",
-				"简介": "小林子为您剧情介绍:+text cor3\">[*],&&</div>",
+				"请求头": "User-Agent$MOBILE_UA",
+				"简介": "剧情介绍:+text cor3\">[*],&&</div>",
 				"图片": "data-src=\"&&\"[替换:amp;>>空]",
 				"主页url": "https://www.budaichuchen.net/label/qq.html",
 				"副标题": "ft2\">&&</i>",
 				"线路数组": "<i class=\"fa ds-dianying\">&&</span>",
 				"播放数组": "anthology-list-play size\">&&</ul>",
 				"分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-				"分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+				"分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3#腾讯精选$6#B站精选$7#优酷精选$8"
 			  }
 			},
 
