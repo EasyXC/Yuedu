@@ -531,25 +531,25 @@
 				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#纪录片$24||美剧$20#韩剧$13#日剧$14#泰剧$15#港剧$16#国产剧$25||空||空||空"
 			}
 		},
-		{
-			  "key": "枫叶电影",
-			  "name": "枫叶┃电影",
-			  "type": 3,
-			  "api": "csp_XBPQ",
-			  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xiaosa.jar",
-			  "ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"简介": "剧情介绍:+text cor3\">[*],&&</div>",
-				"图片": "data-src=\"&&\"[替换:amp;>>空]",
-				"主页url": "https://www.budaichuchen.net/label/qq.html",
-				"副标题": "ft2\">&&</i>",
-				"线路数组": "<i class=\"fa ds-dianying\">&&</span>",
-				"播放数组": "anthology-list-play size\">&&</ul>",
-				"分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-				"分类": "电影$5#电视剧$2#动漫$1#综艺$4#短剧$3"
-			  }
-			},
 
+	{
+	      "key": "枫叶电影",
+	      "name": "枫叶┃电影",
+	      "type": 3,
+	      "api": "csp_XBPQ",
+	      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xiaosa.jar",
+	      "ext": {
+	        "请求头": "手机",
+	        "简介": "小林子为您剧情介绍:+text cor3\">[*],&&</div>",
+	        "图片": "data-src=\"&&\"[替换:amp;>>空]",
+	        "主页url": "https://www.budaichuchen.net/label/qq.html",
+	        "副标题": "ft2\">&&</i>",
+	        "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
+	        "播放数组": "anthology-list-play size\">&&</ul>",
+	        "分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+	      }
+	    },
 		{
 			"key": "LCYS",
 			"name": "陆城┃影视",
