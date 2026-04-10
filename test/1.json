@@ -546,7 +546,7 @@
 				"线路数组": "<i class=\"fa ds-dianying\">&&</span>",
 				"播放数组": "anthology-list-play size\">&&</ul>",
 				"分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-				"分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3#腾讯精选$6#B站精选$7#优酷精选$8"
+				"分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$5#腾讯精选$6#B站精选$7#优酷精选$30"
 			  }
 			},
 
