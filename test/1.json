@@ -558,25 +558,28 @@
 				"分类": "电影$5#电视剧$2#动漫$1#综艺$4#短剧$3"
 			}
 		},
-		{
-			"key": "Auete",
-			"name": "Auete┃影视",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/Auete.js"
-		},
-		{
-			"key": "悦酷",
-			"name": "悦酷┃影视",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": {
-				"site": "http://159.75.121.115:9999/yueku/mac1.json"
-			}
-		},
+       {
+            "key": "看客tv",
+            "name": "看客tv｜影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "{\"CosUrl\":\"http://2025-1329689796.cos.ap-guangzhou.myqcloud.com/kanke/app1.json\"}"
+        },
+        {
+            "key": "悦酷",
+            "name": "悦酷｜影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "{\"CosUrl\":\"http://159.75.121.115:9999/yueku/mac1.json\"}"
+        },
 		{
 			"key": "LCYS",
 			"name": "陆城┃影视",
