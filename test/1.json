@@ -45,12 +45,16 @@
 			}
 		},
         {
-            "key": "弹幕1",
-            "name": "弹幕",
+            "key": "aowu弹幕",
+            "name": "嗷呜🐺弹幕搜索自启",
             "type": 3,
-            "api": "csp_DanmakuSpider",
-            "jar": "https://wp.kayyw.com/f/mLbwU9/danmu.jar",
-            "index": 1
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/bzr-zd/2/main/lib/aow--dm.png",
+            "api": "csp_GoConfigAmns",
+            "indexs": 1,
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 1,
+            "changeable": 0
         },
 		{
 			"key": "弹幕",
