@@ -23,7 +23,7 @@
 	],
 	"sites": [{
 			"key": "豆瓣",
-			"name": "公众号：Easy的分享",
+			"name": "公众号：Easy的分享测试",
 			"type": 3,
 			"api": "csp_DouDou",
 			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/fty.jar",
@@ -44,6 +44,14 @@
 				"ratio": 1.597
 			}
 		},
+        {
+            "key": "弹幕1",
+            "name": "弹幕(测试)",
+            "type": 3,
+            "api": "csp_DanmakuSpider",
+            "jar": "https://wp.kayyw.com/f/mLbwU9/danmu.jar",
+            "index": 1
+        },
 		{
 			"key": "弹幕",
 			"name": "虎斑弹幕配置",
@@ -562,44 +570,13 @@
 			"key": "Auete",
 			"name": "Auete┃影视",
 			"type": 3,
-			"api": "https://auete.top/",
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/Auete.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"主页url": "https://auete.top/",
-				"二次截取": "class=\"pic-list clearfix\"&&</ul>",
-				"数组": "<li>&&</li>",
-				"标题": "title=\"&&\"",
-				"图片": "src=\"&&\"",
-				"副标题": "</i>&&</span>",
-				"链接": "href=\"&&\"",
-				"播放数组": "class=\"player\"&&</ul>",
-				"播放链接": "href=\"&&\"",
-				"播放列表": "<a&&a>",
-				"播放标题": ">&&</",
-				"线路数组": "<option&&option>",
-				"线路标题": "EasyTV专线",
-				"跳转播放链接": "var player_*\"url\":\"&&\"",
-				"分类url": "https://www.pkmp4.xyz/ms/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#其他$30"
-			}
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/Auete.js"
 		},
 		{
 			"key": "悦酷",
 			"name": "悦酷┃影视",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": {
-				"site": "http://159.75.121.115:9999/yueku/mac1.json"
-			}
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py"
 		},
 		{
 			"key": "LCYS",
