@@ -23,7 +23,7 @@
 	],
 	"sites": [{
 			"key": "豆瓣",
-			"name": "公众号：Easy的分享测试",
+			"name": "公众号：Easy的分享",
 			"type": 3,
 			"api": "csp_DouDou",
 			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/fty.jar",
@@ -44,14 +44,6 @@
 				"ratio": 1.597
 			}
 		},
-        {
-            "key": "弹幕1",
-            "name": "弹幕(测试)",
-            "type": 3,
-            "api": "csp_DanmakuSpider",
-            "jar": "https://wp.kayyw.com/f/mLbwU9/danmu.jar",
-            "index": 1
-        },
 		{
 			"key": "弹幕",
 			"name": "虎斑弹幕配置",
@@ -576,7 +568,14 @@
 			"key": "悦酷",
 			"name": "悦酷┃影视",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py"
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 0,
+			"changeable": 0,
+			"ext": {
+				"site": "http://159.75.121.115:9999/yueku/mac1.json"
+			}
 		},
 		{
 			"key": "LCYS",
