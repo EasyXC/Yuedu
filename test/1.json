@@ -121,12 +121,36 @@
 			"ext": "https://11145.kstore.space/lcby/lib/高中课堂.json"
 		},
 		{
-			"key": "皮皮虾",
-			"name": "皮皮虾❤免扫4K",
+			"key": "墨c-drpyS_人人影视[优]",
+			"name": "人人❤免扫4K",
+			"type": 4,
+			"api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 0,
+			"title": "人人影视[优]",
+			"author": "EylinSir",
+			"类型": "影视",
+			"lang": "ds",
+			"ext": ""
+		},
+		{
+			"key": "suisui-岁-至臻清风-7",
+			"name": "清风❤免扫4K",
+			"type": 4,
+			"api": "http://sspa8.top:8100/php/清风.php",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"key": "九灵移动",
+			"name": "九灵❤免扫4K",
 			"type": 3,
-			"api": "https://github.com/EasyXC/EasyTVbox/raw/main/jar/ppx.py",
-			"ext": "http://38.55.237.41:8762",
-			"token": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InVzZXJfY2hlY2siOiI4ZTEyNDE1Y2UyOGQzMGM4MWE3MDBiNWYxMDgzZTU2OCIsInVzZXJfaWQiOjM0NTYsInVzZXJfbmFtZSI6IjEwMTAxMiJ9LCJleHAiOjE4MDQ3MzkyODAuNjA4MTA4MywiaWF0IjoxNzczMjAzMjgxLCJpc3MiOiJBcHBUbyIsImp0aSI6ImZmZDMyYjk4N2VkMTg1ZjNiNGQ5Zjc5NzU2YWRjNGQ5IiwibmJmIjoxNzczMjAzMjgxLCJzdWIiOiJBcHBUbyJ9.tDhURwWVzsPy0-yXvo_d3bgsmoq9Ri5n0Y4fQsvxKy0"
+			"jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
+			"api": "csp_YDjisu",
+			"searchable": 1,
+			"changeable": 1
 		},
 		{
 			"key": "腾讯视频",
@@ -174,15 +198,7 @@
 			"lang": "ds",
 			"ext": ""
 		},
-		{
-			"key": "九灵移动",
-			"name": "九灵❤免扫4K",
-			"type": 3,
-			"jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
-			"api": "csp_YDjisu",
-			"searchable": 1,
-			"changeable": 1
-		},
+
 		{
 			"key": "csp_T4_摸鱼",
 			"name": "摸鱼❤限次4K",
@@ -203,27 +219,12 @@
 			"filterable": 0
 		},
 		{
-			"key": "墨c-drpyS_人人影视[优]",
-			"name": "人人❤免扫4K",
-			"type": 4,
-			"api": "http://115.191.55.109:9097/api/人人影视[优]?pwd=50721480be241243",
-			"searchable": 1,
-			"filterable": 1,
-			"quickSearch": 0,
-			"title": "人人影视[优]",
-			"author": "EylinSir",
-			"类型": "影视",
-			"lang": "ds",
-			"ext": ""
-		},
-		{
-			"key": "suisui-岁-至臻清风-7",
-			"name": "清风❤免扫4K",
-			"type": 4,
-			"api": "http://sspa8.top:8100/php/清风.php",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
+			"key": "皮皮虾",
+			"name": "皮皮虾❤免扫4K",
+			"type": 3,
+			"api": "https://github.com/EasyXC/EasyTVbox/raw/main/jar/ppx.py",
+			"ext": "http://38.55.237.41:8762",
+			"token": "eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InVzZXJfY2hlY2siOiI4ZTEyNDE1Y2UyOGQzMGM4MWE3MDBiNWYxMDgzZTU2OCIsInVzZXJfaWQiOjM0NTYsInVzZXJfbmFtZSI6IjEwMTAxMiJ9LCJleHAiOjE4MDQ3MzkyODAuNjA4MTA4MywiaWF0IjoxNzczMjAzMjgxLCJpc3MiOiJBcHBUbyIsImp0aSI6ImZmZDMyYjk4N2VkMTg1ZjNiNGQ5Zjc5NzU2YWRjNGQ5IiwibmJmIjoxNzczMjAzMjgxLCJzdWIiOiJBcHBUbyJ9.tDhURwWVzsPy0-yXvo_d3bgsmoq9Ri5n0Y4fQsvxKy0"
 		},
 		{
 			"key": "oe",
@@ -556,6 +557,18 @@
 				"分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 				"分类": "电影$5#电视剧$2#动漫$1#综艺$4#短剧$3"
 			}
+		},
+		{
+			"key": "Auete",
+			"name": "Auete┃影视",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/Auete.js"
+		},
+		{
+			"key": "悦酷",
+			"name": "悦酷┃影视",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py"
 		},
 		{
 			"key": "LCYS",
