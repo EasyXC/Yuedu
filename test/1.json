@@ -559,23 +559,10 @@
 			}
 		},
 		{
-			"key": "看客tv",
-			"name": "看客tv｜影视",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py",
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"CosUrl": "http://2025-1329689796.cos.ap-guangzhou.myqcloud.com/kanke/app1.json"
-			}
-		},
-		{
 			"key": "悦酷",
 			"name": "悦酷｜影视",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/yk.py",
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xiaosa.jar",
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
