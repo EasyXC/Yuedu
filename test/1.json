@@ -44,6 +44,14 @@
 				"ratio": 1.597
 			}
 		},
+        {
+            "key": "弹幕1",
+            "name": "弹幕",
+            "type": 3,
+            "api": "csp_DanmakuSpider",
+            "jar": "https://wp.kayyw.com/f/mLbwU9/danmu.jar",
+            "index": 1
+        },
 		{
 			"key": "弹幕",
 			"name": "虎斑弹幕配置",
@@ -558,19 +566,7 @@
 				"分类": "电影$5#电视剧$2#动漫$1#综艺$4#短剧$3"
 			}
 		},
-		{
-			"key": "悦酷",
-			"name": "悦酷｜影视",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/easy.jar",
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"CosUrl": "http://159.75.121.115:9999/yueku/mac1.json"
-			}
-		},
+
 		{
 			"key": "LCYS",
 			"name": "陆城┃影视",
