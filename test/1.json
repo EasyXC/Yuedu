@@ -399,25 +399,6 @@
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTlhSFZpWVc0akl5Tm9kV0poYmc9PQ=="
 		},
 		{
-			"key": "新腾极4k",
-			"name": "Easy❤免扫4K腾",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/easy4kTX.js"
-		},
-		{
-			"key": "芒果弹幕",
-			"name": "Easy❤免扫4K芒彩",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/drpy2.min.js",
-			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/easy4KMG.js"
-		},
-		{
 			"key": "魔方",
 			"name": "魔方┃影院",
 			"type": 3,
@@ -647,18 +628,6 @@
 			"changeable": 0
 		},
 		{
-			"key": "py_文才",
-			"name": "文才┃陆城",
-			"type": 3,
-			"api": "http://154.36.173.40/tgyg/lib/apiv453apiv585apiv1583文才影视.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-			}
-		},
-		{
 			"key": "csp_New6v",
 			"name": "新V6┃影视",
 			"type": 3,
@@ -714,20 +683,7 @@
 			},
 			"jar": "http://154.36.173.40/tgyg/lib/白嫖鸭.jar"
 		},
-		{
-			"key": "魔方",
-			"name": "魔方┃APP",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"api": "csp_AppGet",
-			"ext": {
-				"url": "https://www.alibaba31casaq.top/",
-				"dataKey": "1234567887654321",
-				"dataIv": "1234567887654321"
-			},
-			"jar": "http://154.36.173.40/tgyg/lib/白嫖鸭.jar"
-		},
+
 		{
 			"key": "88看球",
 			"name": "⚽88┃看球",
@@ -782,17 +738,6 @@
 			"ext": ""
 		},
 		{
-			"key": "KUlao永乐JS",
-			"name": "永乐┃有4K",
-			"type": 3,
-			"api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-		{
 			"key": "yim金牌csp_Jpys",
 			"name": "金牌┃有4K",
 			"type": 3,
@@ -821,18 +766,6 @@
 			"ext": "https://vip.wwgz.cn:5200"
 		},
 		{
-			"key": "咕噜vox映画",
-			"name": "咕噜┃蓝光",
-			"type": 3,
-			"changeable": 0,
-			"api": "https://17264.kstore.space/Appfox.min.js",
-			"ext": {
-				"host": "http://www.yingsw.top",
-				"key": "guluyinghua_123",
-				"sign": "679543610991810f19698c187e5e106e"
-			}
-		},
-		{
 			"key": "py_新韩剧网",
 			"name": "新韩┃剧网",
 			"type": 4,
@@ -850,17 +783,6 @@
 			"name": "豆瓣┃采集",
 			"type": 4,
 			"api": "https://py.doube.eu.org/v2/spider?site=006849a2c19a6be413be5017be468c63"
-		},
-		{
-			"key": "裤佬永乐JS",
-			"name": "永乐┃JS",
-			"type": 3,
-			"api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
 		},
 		{
 			"key": "裤佬EmbyJS",
