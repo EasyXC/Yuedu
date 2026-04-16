@@ -399,11 +399,23 @@
 			"ext": "YUhSMGNEb3ZMekV6T1M0eU1qUXVNakV6TGpJME1Eb3hNak14TWk5aGNHa3VjR2h3UDNOcGRHVTlhSFZpWVc0akl5Tm9kV0poYmc9PQ=="
 		},
 		{
-			"key": "芒果弹幕",
-			"name": "芒果备❤免扫4K",
+			"key": "新腾极4k",
+			"name": "Easy❤免扫4K腾",
 			"type": 3,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/drpy2.min.js",
-			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/pixiu4KMG.js"
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/easy4kTX.js"
+		},
+		{
+			"key": "芒果弹幕",
+			"name": "Easy❤免扫4K芒彩",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/drpy2.min.js",
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pixiu/easy4KMG.js"
 		},
 		{
 			"key": "魔方",
