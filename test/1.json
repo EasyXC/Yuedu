@@ -44,6 +44,12 @@
 				"ratio": 1.597
 			}
 		},
+		        {
+            "key": "三秋影视",
+            "name": "三秋｜APP",
+            "type": 3,
+			"api": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260416/1yJB/0X0/04162317.png;md5;2543e3c1367a15df8d3857758c6c8c5b"
+				},
 		{
 			"key": "csp_XYQHiker_兔小贝",
 			"name": "兔小贝",
