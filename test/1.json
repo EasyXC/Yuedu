@@ -387,7 +387,7 @@
 			"name": "哔哩❤❤免扫4K",
 			"type": 3,
 			"api": "csp_Bilimd",
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.png",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -400,7 +400,7 @@
 			"key": "奇奇",
 			"name": "奇奇❤免扫4K",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
 			"searchable": 1,
 			"ext": {
 				"host": "http://110.42.67.221:8003/",
@@ -414,7 +414,7 @@
 			"name": "蒙奇❤免扫4K",
 			"key": "AppV7Mtq",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
 			"api": "csp_AppV7Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -426,7 +426,7 @@
 			"name": "粉猪❤免扫4K",
 			"key": "AppV7Fz",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
 			"api": "csp_AppV7Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -451,35 +451,14 @@
 			"key": "皮皮虾",
 			"name": "皮虾❤免扫4K",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ppx.py",
 			"ext": "http://154.94.224.98:8762"
-		},
-		{
-			"key": "橘汁",
-			"name": "橘汁❤免扫4K",
-			"type": 3,
-			"api": "csp_AppDrama",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"appName": "橘汁",
-				"publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-				"publicIv": "ed5fdsgucxumegqa",
-				"dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==",
-				"dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-				"pkg": "com.tjjiangh.android",
-				"host": "",
-				"site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
-				"version": "3.0.1.9",
-				"decrypt": "1"
-			}
 		},
 		{
 			"name": "咸鱼❤免扫4K",
 			"key": "AppV7Xy",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
 			"api": "csp_AppV7Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -491,7 +470,7 @@
 			"name": "追忆❤免扫4K",
 			"key": "NewNoxZy",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
 			"api": "csp_NewNoxAmns",
 			"searchable": 1,
 			"filterable": 1,
@@ -504,67 +483,17 @@
 			}
 		},
 		{
-			"key": "三秋影视",
-			"name": "三秋❤免扫4K",
-			"type": 3,
-			"api": "csp_App3Q"
-		},
-		{
-			"key": "fy",
-			"name": "枫叶❤免扫4K",
-			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
-		},
-		{
-			"key": "金牌",
-			"name": "金牌❤免扫4K",
-			"type": 3,
-			"api": "csp_AppQi",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": {
-				"url": "https://qj4.catbb.xyz",
-				"dataKey": "eecbio48dsq13kkk",
-				"dataIv": "eecbio48dsq13kkk",
-				"search": "searchList4",
-				"init": "initV122",
-				"ua": "okhttp/3.10.0"
-			}
-		},
-		{
-			"key": "盘它",
-			"name": "盘它❤免扫4K",
-			"type": 3,
-			"api": "csp_PanWebSharePT",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 0,
-			"style": {
-				"type": "list"
-			}
-		},
-		{
-			"key": "瓜子影视",
-			"name": "瓜子｜3K线路",
-			"type": 3,
-			"api": "csp_Gz360",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "爱看剧",
 			"name": "看剧｜1920",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
 			"ext": "http://43.248.117.123:4680"
 		},
 		{
 			"key": "追剧",
 			"name": "追剧｜1920",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/追剧.py",
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/追剧.py",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -574,7 +503,7 @@
 			"name": "柠檬｜1920",
 			"key": "AppV7Xnm",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
 			"api": "csp_AppV7Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -586,7 +515,7 @@
 			"name": "零七｜1920",
 			"key": "AppV7Llq",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
 			"api": "csp_AppV7Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -598,7 +527,7 @@
 			"name": "柿子｜1920",
 			"key": "AppV7Xsz",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm.png",
 			"api": "csp_AppV7Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -607,72 +536,10 @@
 			"ext": "3965288565eb2ea7fcb9caa81e70fa9b13ee58ba1822aa8523c74f6a121ad1fa62ad5a5201ea1e1e1564ec1119183199a379a6e7b065aa6bfe495522d2e64658457ec69805b02699fbc29986c5e4bcdd29376e53e3dfb51347a668cbf51d012e06dc09f24012e1bbc408f577525877a724edfa999d6c7221409e27cbcf3690b46cbd5ab2e0fdcc12e5abeaf958c8eb6320e582d0d75621a7ba0125030198fbf3346d9e3e4c1879114d069b6ef23728cf43743cb5a8bfd642fdf198f0b6af56a6fc014daa4eeae62506f43253392b1a268610736dd49e55c6094c251bf1976b11edc1b97f3c8133f74c9451220199f52c1806d5be20bb06a824bfda66e4f524270e4c559ab785dd8481e85add6f7b38016fa5fadf872432a9f409cd8677eb1ed071e708021100412036556b856fab9684e3618450713b78615f6e660d1168e2fb624d33edc64c7fbfecd3677b7c0b8faab4236695ed4fc954c538fed15df83c012f2fdeb8b6f5e44b1d2e563a2c7b68671e56836e5c72b0eb34af289bad957b21ae391612692b905a4796cff6704b0138266dc6268cfe7ef144a49208f36dc09493329e660422daea8a90b149d1a6dee2fc11b5f190ae6ccf0324264b19ca9d9a2bd7df5ea13fc86a3e7fd4ee164881a4ba4ba3d1a57f52d83975ace978533721ae716e8dc75cbfd38b22a661221339d983202e9d87e47ec181daa949f9151f9e6b95a1d995be9e3cb65b138c9db486f21a14a379faed14b0c4e80a1a11f28ccca9b9328d4fc0738f719537853dfb2ec759a48ab68096230f65d76f4b718b7ba99c92772304f866f9fcc979db876c7037b6abc278c26c30efca38bce90048f1dd91225c22b41f992cb8d31f44f95539cf7b5f2365a227423ea8eb3abdb01f57c60b4ee3d1c55eef2b18e6f0271232aa3b185495964d00411e8772ee09ab0791b4ac0b5bd285fee43bee0b1df47899c34a2d87113c5c18d9520dfc604d03c2d59a19367eeb28eb66d1a1c979e3c804490807e4e88787941dc8491e3b059b3e80d431e7d8b67eb9bc4b3d472b43915c77ff8cd867334242478e9912757dd4ace685337f6603a3bffe93f1537383dd3ea83de8e9702b72a99ccc0bbcaaa926db3b29b613a5813519cfe4a423c480cf6e90da795593f6fec5abf302962f93c58c157e1edec7e096a6ae632697b189bfeffc2b0e3c360b4b92ed430dbe407ae4a73c11cff0d09ea7875b90714575238cfc149ef321b4e740382869ae5313dc6da3a6ab2cffb03754c0db3256ceafcf4d68e2c3910a7d73a41f174035d5691bb3d7fd43ada1aa9f55b094a47c0f1b1cf987d52ac8bab081ada706e80a1cfdf1d0ecb675fe59c50689ce6bcfd9b03a1bf30519d0c9aa92f0f81d2769386594c0a7efee255ece7f35e2e78604dda8c298d73c804af5198578748bcd9a3bb7783baccf437e1ed637b5e0154fee9c5a0bbad0e4961af7b97adb67a98ebc6c454daa0e720290eb611e74f2bfeee3c258a35921a9969cab0385f858ba748f033656e29e24625937ff98761a0a4948bd61165c934e67b7c2787c2b129a453eb8012383177a00bea4335e2ab47faac311a4f247a1cf05c8f901335de15749a892783ec3a51701701006b52f6443c96a3665446204985dae5c8ef7d9f77de8753e273c33dccc938403762ee58e86cd22c670b6b97e8155582f3d44c2ed7500684e3eee1f118ab545dd281eacc81c5958778f89c0bdc7d39cbb698e160b42e9d3994285c02f7350fe746d0e3a7413e92b58aec066aa279a52c5c02f05b3ffacd3e9fb42141b40af738eda7953b365d8fa22df2715e905e12b384703c24760d88c337f0cc4e51f6997eba1fae9eecfa34b6df55a82d7cc1bb6f433fe2964e30686a1295ef25e18ff0ba7fb182aca74026e8eaaf0b1b62540e63a2d24f5f05fd7f29ce2f0ff58b85e163d9f215541dacbb2f4ebe05fe9b50ca8bc5bebdf35c355c833dd3fcd5d50096e482c0ec29526c2426535065ca11d4f386865ac896f111f98f10bad975738ca2ab0093be50eca33b75ccc794d91c685fa5274e419db1cd1122777a6590948219f311d4dac48800d48d5b88248698b55769eeac29685cea595a13376a5104a8f1c278fa7bf1010f1cb591edb3842328a0a0ff4405243c835e78ce8da980f7ac0b2aa5b8b86b5b5ce2a20c5f76114c215667885a1213c63488ef3f1ca9e0f1a413e4e849f106bb1441857a4e26952f214d6db2846242aa9ae8be1f36023e2bd0640fde1e8bf307b302fd6808f08bbb5be4d254f33cb3f495948658d71859764a0fbe29169fd3ec383ea32f770fb46300a404d9c97704a3aa8f56275e6a12613979c59fea0c9ed4df72bb8fb4aaa561a1928e69977bd06989d7afedb1f6cac3778a70cc6473a4c48dfda7b65c63854b26e6f40cc1f04f9ddf53bd888ff09eb1f81c2796d9ce61e7210f614942735bae7bc053f2d5e6264819b1cf771fec9ed071feeecc997de9d0e9fc271ad72d39de636b97255bb7faa674ab6e473149cc74681cce9b95882bf8d837250746613e9d5257946be5a4439cb0b1ea5f3c05eb90777e77a4f45fa70dbeb2d9692d908915487fcbca39ae01ec83b3920053b53d936c0aa8ca8b27fd214e9ebc2aabaf98834585635676485efad56a6fa5395e03e5bdf8a239fb101630b8fb404e6885623110726c0ba005c837c9a8413a6ca5ee1cd63170ffc88689a86eb33684d3bfd3e1bb115a533160cd15449167f77ceb63053614f4dfcdace75195fe654f4ea31bc97e58d3bdf3165baaddce41c745c9a958ead2d10eeb201198a6bf792489bc8efed34d93375ce4813f0fc3d3e6f6ceb0602194897687eabc03cc822766fbe494b104156bdcb912e0a2262d18192610d59d8e5bd626f2463da5441ee9c98b9378a4e31ef421eddf85e08c95a258f39eda6ff1cd61b0ec328a447412e4014edef0602915cbd43034ce9f72cd72b0f034a7913"
 		},
 		{
-			"key": "天堂",
-			"name": "天堂｜1920",
-			"type": 3,
-			"api": "csp_AppDrama",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"appName": "电影天堂",
-				"publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-				"publicIv": "ed5fdsgucxumegqa",
-				"dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
-				"dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-				"pkg": "com.dytiantang.one",
-				"host": "",
-				"site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
-				"version": "3.0.0.7",
-				"decrypt": "0"
-			}
-		},
-		{
-			"key": "华谊",
-			"name": "华谊｜1920",
-			"type": 3,
-			"api": "csp_AppDrama",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"appName": "华谊",
-				"publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-				"publicIv": "ed5fdsgucxumegqa",
-				"dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-				"dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-				"pkg": "com.muyue.tool",
-				"host": "",
-				"site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-				"version": "1.0.0.4",
-				"decrypt": "1"
-			}
-		},
-		{
-			"key": "苹果",
-			"name": "苹果｜1920",
-			"type": 3,
-			"api": "csp_AppDrama",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"appName": "小苹果",
-				"publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-				"dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-				"dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-				"pkg": "com.juechufsh.android.xpg1",
-				"host": "",
-				"site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-				"version": "1.0.0.3",
-				"decrypt": "0"
-			}
-		},
-		{
 			"name": "大师兄｜1920",
 			"key": "AppV6Dxs",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
 			"api": "csp_AppV6Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -684,7 +551,7 @@
 			"name": "小黄人｜1920",
 			"key": "AppV6Xhr",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
 			"api": "csp_AppV6Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -696,7 +563,7 @@
 			"name": "达人｜1920",
 			"key": "AppV6Dr",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
 			"api": "csp_AppV6Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -708,7 +575,7 @@
 			"name": "柚子｜1920",
 			"key": "AppV6Yz",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
 			"api": "csp_AppV6Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -720,7 +587,7 @@
 			"name": "特狗｜1920",
 			"key": "AppV6Tg",
 			"type": 3,
-			"jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
 			"api": "csp_AppV6Amns",
 			"searchable": 1,
 			"filterable": 1,
@@ -729,73 +596,39 @@
 			"ext": "291f288565eb2ea7fcb9caa81e70fa9b13ee50aa4880a55d5da44a22bc07d90a87c2078c271197d29b708c0e51da4326089ccfa0765319fe6aa5788b0e8073f192d9a15ffb277a378829dc70346b083810b66a73e4176fe1ba51cde68ee64c68c04a8d1ed92e586688e09ade2701dfba3ccf720c024287dc3187c946399bdd4ad5785674bcad46f894c081f80e3ac064289ddf0889b44c566d6d0d8b9e4ee774160d3cd5859e6448e5ea2012623a0fa0f97104f39e462f89d3d03f6a6ab9ab4afd799c08cb4621ef0cfca86fb4fda635a0137523cc5c8fe4c2f820857f6168879b8a0f2a92949b3ade404d5c2b5951b09caa7a1b23c373ef5a548de6704b799989da3fed86a6562e0806b571f4e7fe85b1310caa105a87b222bda8c72759b75d4d1e230b51c235015d961f1a8bf67cbfccfaa8b970e3fdac81f13155239b9dbae209dd9e96559a3a25640c2b7932b0c2ecfa327dab44fa646fd6a23ef1fd0df73b645d8dddbf5bc9c39318330189e5fc2335be5e897c3a27d09ad9be406bba1b0f84280d1219b843b87896ae6642fa3be042b62ee11d7fffdc220ce2c0cf83721836a38685353afff339e4b7dd5621f6acc8899fedc64351b518fde91661a9a5b948ee57e4de5d018d21bc2f045ac225ee031b843618002025559e9e66093706adcbd16902307fe1ac031c7293fc5ea0fafb6af4ef975421cd50eea958fac6cc83d2819666fa9cdc1b0d23b256034949e75276e51010f8743f9440edb6bf568819364eba2d68b9aa720fcc91f6465ae92375c6f06043e95c4566acd6483b175f90e9d189b6cde6ad7a7f9d66c386e49c0264cda18df57c073d74154cfc8e24aefab25f323cc84e196daf501cfabeb643a0c9cab0e0c7550875adb0870789b3edc49a9f8f772960bfe9fbc15943a31c3096baf8b1e62f5f01e6bb7f45dc56f24d5d3c7e1dd33c9a7aa0f18ade601a4780121e758db79c03e75436d38e96c463713e37e477bc6770d7b131f440d9a4fe1ba7295c2a211387aa319587c8f5be8cfab47bddd1ef1dffbbca22b3069205674f90a80223d91f005fbda1cf09124152b119bc3fc260725931c6b3e7608c8463e84c46ddd1ff16f78da180b7efb7ddbddaf4e209d3753a07f70b85393bc11eb73ab878cd5e59b846c839bcea083220a08bcb7815e4908cbdfb53d6a7aead5c9a4380c14f8c5e4319fed342d5985d1b907a576756dc28512a16c74bc57e4c6b415070fd1a1a59aa3619de7bc5989e440a5ff8512dd260fb4e0926f479b46d9a232755567b3b52e0765718acbf491c894519ddaa3fa22dc07d40afd142445473592ef60bf398652ad7edd36b05ac951d08f8a3305cfceffe4d104f3f4ebd10f17607575e967e0af17d594f7fb57e43a22b26cd72a667cc8753584897ffe060636ad0c378450dab2c6ad9239d58949d75399e9a212b7d5c13472e0df6425ce49dfce3fb3be3b8bead3329260d63b45eeb4481594fed19da2c72b1017644046b8aab0a1f8dc01ecbbce3fc4ac4cf71c37f6918c69a40ba2ee04661872a06ab8855e29dd2c25a2502406fef84e96164cb3e202ec89b07233931cf444f66ad16fa5fefe53b7d6605d2b7bb3a95b9b71eb9bc56e10b049b96cde60646e78190978d5409475dfcf909599b059f939040ca3888d37cbea9c7814d93ac428f91e8b08044d99cfad3772522f9cefc1c34a33fe2ff464817ed69d4f8bd2417ade9507a033147d121b5483dba44e28b3a150cfc57f856eea30b85e80e28aa1da7f0aa491410885317dc31535b7baaeaa4b06025022088bc6aced130a13d82444de650ca173902aff94aee29a2276ff924ecc9a99de41476d8324362443ab2125574455da3145041d790a7962548f93d56be50a5d696fc3b3db75f74934c727ff813c5c8e75f89e2f4014d22710bcfedcb02ab4f59b25c01def2c9d8476b59310d9dff88473b5fc054076513e3255280594ee6076b89dd42a53b667312c2d34c95f08a80ef474f6eb6a3b2c1a707cf3c8032de400162e08b131edbe0f8be74097daf48c29d7e88a4948271633a6398a42c8567f54840a7ad9a388c9895fc2effa499b74fb9856321e62104"
 		},
 		{
-			"key": "雄鹰",
-			"name": "雄鹰｜1920",
-			"type": 3,
-			"api": "csp_AppQi",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": {
-				"site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-				"dataKey": "ca94b06ca359d80e",
-				"dataIv": "ca94b06ca359d80e",
-				"init": "initV120",
-				"ua": "okhttp/3.10.0"
-			}
-		},
-		{
-			"key": "热播影视",
-			"name": "热播｜1920",
-			"type": 3,
-			"api": "csp_AppRJ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": {
-				"url": "http://v.rbotv.cn"
-			}
-		},
-		{
 			"key": "华数",
 			"name": "华数｜1920",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/华数.py",
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/华数.py",
 			"changeable": 1
-		},
-		{
-			"key": "韩圈",
-			"name": "韩圈｜1920",
-			"type": 3,
-			"api": "csp_Hxq",
-			"ext": "https://fishapi.wya6.com/fish/fishhxq.php"
 		},
 		{
 			"key": "小腾",
 			"name": "小腾｜1920",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-			"ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小腾.png"
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小腾.png"
 		},
 		{
 			"key": "小芒",
 			"name": "小芒｜1920",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-			"ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小芒.png"
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小芒.png"
 		},
 		{
 			"key": "小优",
 			"name": "小优｜1280",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-			"ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小优.png"
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小优.png"
 		},
 		{
 			"key": "小爱",
 			"name": "小爱｜1280",
 			"type": 3,
-			"api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-			"ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小爱.png"
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小爱.png"
 		},
 		{
 			"key": "电影先生",
