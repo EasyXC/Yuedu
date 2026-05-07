@@ -26,14 +26,7 @@
 				"ratio": 1.597
 			}
 		},
-		{
-            "key": "Guazi",
-            "name": "🎀瓜子｜3K",
-            "type": 3,
-            "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php;md5;6857c2aa7067598bde128e5df9e42048",
-            "api": "csp_Guazi",
-            "searchable": 1
-        },
+
 		{
 			"key": "csp_XYQHiker_兔小贝",
 			"name": "兔小贝",
