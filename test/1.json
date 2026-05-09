@@ -1497,6 +1497,13 @@
 			"timeout": 10
 		},
 		{
+			"name": "测试3",
+			"type": 0,
+			"url": "https://pan.gt68.cn/down.php/b08f2cdca1d46ed275995fc89ab96a7f.png",
+			"timeout": 10
+		},
+		
+		{
 			"name": "华丽",
 			"type": 0,
 			"url": "https://wp.kayyw.com/f/enWEFY/华丽接口.txt",
