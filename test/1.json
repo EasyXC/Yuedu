@@ -2,13 +2,13 @@
 	"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/easy.jar",
 	"wallpaper": "http://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz",
 	"warningText": "Easy提醒：所有资源来于网络，仅作学习交流测试使用！",
-	"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/images/50f90ae3968d19487daf69cf022699be.gif",
+	"logo": "images/50f90ae3968d19487daf69cf022699be.gif",
 	"sites": [{
 			"key": "豆瓣",
-			"name": "公众号：Easy的分享",
+			"name": "防失联🐧群：807916734",
 			"type": 3,
 			"api": "csp_DouDou",
-			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/fty.jar",
+			"jar": "jar/fty.jar",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
@@ -26,7 +26,19 @@
 				"ratio": 1.597
 			}
 		},
-
+		    {
+      "name": "嗷嗚彈幕",
+      "key": "嗷呜弹幕",
+      "type": 3,
+      "api": "csp_GoConfigAmns",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/aowu_spider.jar",
+      "indexs": 1,
+      "searchable": 0,
+      "filterable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gh-proxy.com/https://github.com/EasyXC/EasyTVbox/tree/main/awlib/dmlib/"
+    },
 		{
 			"key": "csp_XYQHiker_兔小贝",
 			"name": "兔小贝",
@@ -1297,7 +1309,7 @@
 	"parses": [{
 			"name": "Easy解析1",
 			"type": 0,
-			"url": "https://jx.easy123.ccwu.cc/easy1?pwd=easy12345&url=",
+			"url": "https://jxc.easy123.ccwu.cc/easy1?pwd=easy12345&url=",
 			"ext": {
 				"flag": ["mgtv", "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "芒果"]
 			}
@@ -1305,7 +1317,7 @@
 		{
 			"name": "Easy解析2",
 			"type": 0,
-			"url": "https://jx.easy123.ccwu.cc/easy2?pwd=easy12345&url=",
+			"url": "https://jxc.easy123.ccwu.cc/easy2?pwd=easy12345&url=",
 			"ext": {
 				"flag": ["mgtv", "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "芒果"]
 			}
@@ -1313,87 +1325,172 @@
 		{
 			"name": "Easy解析3",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy3?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy3?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析4",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy4?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy4?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析5",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy5?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy5?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析6",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy6?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy6?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析7",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy7?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy7?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析8",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy8?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy8?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析9",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy9?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy9?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析10",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy10?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy10?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析11",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy11?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy11?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析12",
 			"type": 1,
-			"url": "https://jx.easy123.ccwu.cc/easy12?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy12?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析13",
 			"type": 4,
-			"url": "https://jx.easy123.ccwu.cc/easy13?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy13?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析14",
 			"type": 0,
-			"url": "https://jx.easy123.ccwu.cc/easy14?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy14?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析15",
 			"type": 0,
-			"url": "https://jx.easy123.ccwu.cc/easy15?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy15?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析17",
 			"type": 0,
-			"url": "https://jx.easy123.ccwu.cc/easy17?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy17?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析18",
 			"type": 0,
-			"url": "https://jx.easy123.ccwu.cc/easy18?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy18?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析19",
 			"type": 0,
-			"url": "https://jx.easy123.ccwu.cc/easy19?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy19?pwd=easy12345&url="
 		},
 		{
 			"name": "Easy解析20",
 			"type": 0,
-			"url": "https://jx.easy123.ccwu.cc/easy20?pwd=easy12345&url="
+			"url": "https://jxc.easy123.ccwu.cc/easy20?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析21",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy21?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析22",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy22?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析23",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy23?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析24",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy24?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析25",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy25?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析26",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy26?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析27",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy27?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析28",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy28?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析29",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy29?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析30",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy30?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析31",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy31?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析32",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy32?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析33",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy33?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析35",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy35?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析36",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy36?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析37",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy37?pwd=easy12345&url="
+		},
+		{
+			"name": "Easy解析38",
+			"type": 1,
+			"url": "https://jxc.easy123.ccwu.cc/easy38?pwd=easy12345&url="
 		}
 	],
 	"rules": [{
