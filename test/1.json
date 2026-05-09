@@ -1,15 +1,14 @@
 {
-	"spider": "https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/easy.jar",
-	"spider2":"https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/pg.jar",
+	"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/easy.jar",
 	"wallpaper": "http://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz",
 	"warningText": "Easy提醒：所有资源来于网络，仅作学习交流测试使用！",
-	"logo": "https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/images/50f90ae3968d19487daf69cf022699be.gif",
+	"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/images/50f90ae3968d19487daf69cf022699be.gif",
 	"sites": [{
 			"key": "豆瓣",
 			"name": "防失联🐧群：807916734",
 			"type": 3,
 			"api": "csp_DouDou",
-			"jar": "https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/fty.jar",
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/fty.jar",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
@@ -27,19 +26,6 @@
 				"ratio": 1.597
 			}
 		},
-		    {
-      "name": "嗷嗚彈幕",
-      "key": "嗷呜弹幕",
-      "type": 3,
-      "api": "csp_GoConfigAmns",
-      "jar": "https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/aowu_spider.jar",
-      "indexs": 1,
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/awlib/"
-    },
 		{
 			"key": "csp_XYQHiker_兔小贝",
 			"name": "兔小贝",
@@ -364,19 +350,6 @@
 				"host": "https://www.baidukuaiy.top",
 				"ver": 3
 			}
-		},
-		{
-			"key": "墨C-drpyS_木偶[盘]",
-			"name": "木偶❤免扫4K",
-			"type": 4,
-			"api": "http://115.191.55.109:9097/api/木偶[盘]?pwd=50721480be241243",
-			"searchable": 1,
-			"filterable": 1,
-			"quickSearch": 1,
-			"title": "木偶[盘]",
-			"类型": "影视",
-			"lang": "ds",
-			"ext": ""
 		},
 		{
 			"key": "九灵移动",
@@ -1514,7 +1487,7 @@
 	"lives": [{
 			"name": "EasyTV",
 			"type": 0,
-			"url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
+			"url": "https://pan.gt68.cn/down.php/31493a1c810ee6be482ba74eeead5d3a.png",
 			"timeout": 10
 		},
 		{
