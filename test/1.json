@@ -1,5 +1,6 @@
 {
 	"spider": "./jar/easy.jar",
+	"spider2":"./jar/pg.jar",
 	"wallpaper": "http://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz",
 	"warningText": "Easy提醒：所有资源来于网络，仅作学习交流测试使用！",
 	"logo": "./images/50f90ae3968d19487daf69cf022699be.gif",
