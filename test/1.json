@@ -1496,6 +1496,13 @@
 			"url": "https://ds65.tv1288.xyz",
 			"timeout": 10
 		},
+				{
+			"name": "测试",
+			"type": 0,
+			"url": "https://pan.gt68.cn/view.php/9b9249c961be05666a14f9a817c6ecd8.png",
+			"timeout": 10
+		},
+		
 		{
 			"name": "华丽",
 			"type": 0,
