@@ -1,8 +1,8 @@
 {
-	"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/easy.jar",
+	"spider": "/jar/easy.jar",
 	"wallpaper": "http://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz",
 	"warningText": "Easy提醒：所有资源来于网络，仅作学习交流测试使用！",
-	"logo": "images/50f90ae3968d19487daf69cf022699be.gif",
+	"logo": "/images/50f90ae3968d19487daf69cf022699be.gif",
 	"sites": [{
 			"key": "豆瓣",
 			"name": "防失联🐧群：807916734",
@@ -31,13 +31,13 @@
       "key": "嗷呜弹幕",
       "type": 3,
       "api": "csp_GoConfigAmns",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/aowu_spider.jar",
+      "jar": "/jar/aowu_spider.jar",
       "indexs": 1,
       "searchable": 0,
       "filterable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://github.com/EasyXC/EasyTVbox/tree/main/awlib/dmlib/"
+      "ext": "/dmlib/"
     },
 		{
 			"key": "csp_XYQHiker_兔小贝",
