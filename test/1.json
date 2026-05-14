@@ -28,15 +28,27 @@
 		},
            
         {
-            "api": "csp_WoGGGuard",
+            "api": "csp_Wogg",
             "changeable": 0,
             "ext": {
                 "siteUrl": ""
             },
             "filterable": 1,
             "indexs": 0,
-            "key": "csp_WoGG",
+            "key": "csp_Wogg",
             "name": "❤️玩偶-影1",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+		        {
+            "api": "csp_Tzzy",
+            "changeable": 0,
+            "ext": [],
+            "filterable": 0,
+            "indexs": 0,
+            "key": "tzzy",
+            "name": "🍺团长-影ᵖᵃⁿ",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
