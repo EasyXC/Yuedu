@@ -1,6 +1,5 @@
 {
-	"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Yuedu/master/test/TYY.jar",
-		"spider2": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/easy.jar",
+	"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/easy.jar",
 	"wallpaper": "http://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz",
 	"warningText": "Easy提醒：所有资源来于网络，仅作学习交流测试使用！",
 	"logo": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/images/50f90ae3968d19487daf69cf022699be.gif",
@@ -28,13 +27,13 @@
 			}
 		},
         {
-            "api": "csp_NmyswvGuard",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Yuedu/master/test/TYY.jar",
             "changeable": 0,
             "ext": "",
             "filterable": 1,
             "indexs": 0,
             "key": "csp_农民影视",
-            "name": "🎞农民影视1",
+            "name": "🎞农民影视",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
