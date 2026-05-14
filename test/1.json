@@ -29,29 +29,29 @@
 
 		{
 			"api": "csp_Wogg",
+			 "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Yuedu/master/test/TYY.jar",
 			"changeable": 0,
 			"ext": {
-				"siteUrl": ["https://www.wogg.one",
-					"https://wogg.333232.xyz",
-					"https://woggpan.888484.xyz"
+				"siteUrl": [""
 				]
 			},
 			"filterable": 1,
 			"indexs": 0,
 			"key": "csp_Wogg",
-			"name": "❤️玩偶-影",
+			"name": "❤️玩偶-影1",
 			"quickSearch": 1,
 			"searchable": 1,
 			"type": 3
 		},
 		{
 			"api": "csp_Tzzy",
+			"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Yuedu/master/test/TYY.jar",
 			"changeable": 0,
 			"ext": ["tzfile.com"],
 			"filterable": 0,
 			"indexs": 0,
 			"key": "tzzy",
-			"name": "🍺团长-影",
+			"name": "🍺团长-影1",
 			"quickSearch": 1,
 			"searchable": 1,
 			"type": 3
