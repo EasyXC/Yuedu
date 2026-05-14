@@ -26,14 +26,18 @@
 				"ratio": 1.597
 			}
 		},
+           
         {
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Yuedu/master/test/TYY.jar",
+            "api": "csp_WoGGGuard",
+			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Yuedu/master/test/TYY.jar",
             "changeable": 0,
-            "ext": "",
+            "ext": {
+                "siteUrl": ""
+            },
             "filterable": 1,
             "indexs": 0,
-            "key": "csp_农民影视",
-            "name": "🎞农民影视",
+            "key": "csp_WoGG",
+            "name": "❤️玩偶-影",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
