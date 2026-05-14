@@ -26,12 +26,14 @@
 				"ratio": 1.597
 			}
 		},
-           
+
         {
             "api": "csp_Wogg",
             "changeable": 0,
             "ext": {
-                "siteUrl": ""
+                "siteUrl": "https://www.wogg.one",
+					"https://wogg.333232.xyz",
+					"https://woggpan.888484.xyz""
             },
             "filterable": 1,
             "indexs": 0,
