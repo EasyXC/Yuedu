@@ -29,7 +29,6 @@
            
         {
             "api": "csp_WoGGGuard",
-			 "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Yuedu/master/test/TYY.jar",
             "changeable": 0,
             "ext": {
                 "siteUrl": ""
@@ -37,7 +36,7 @@
             "filterable": 1,
             "indexs": 0,
             "key": "csp_WoGG",
-            "name": "❤️玩偶-影",
+            "name": "❤️玩偶-影1",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
