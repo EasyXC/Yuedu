@@ -38,7 +38,7 @@
             "filterable": 1,
             "indexs": 0,
             "key": "csp_Wogg",
-            "name": "❤️玩偶-影1",
+            "name": "❤️玩偶-影",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
@@ -46,11 +46,12 @@
 		        {
             "api": "csp_Tzzy",
             "changeable": 0,
-            "ext": [],
+            "ext": ["tzfile.com"
+			],
             "filterable": 0,
             "indexs": 0,
             "key": "tzzy",
-            "name": "🍺团长-影ᵖᵃⁿ",
+            "name": "🍺团长-影,
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
