@@ -27,35 +27,35 @@
 			}
 		},
 
-        {
-            "api": "csp_Wogg",
-            "changeable": 0,
-            "ext": {
-                "siteUrl": "https://www.wogg.one",
+		{
+			"api": "csp_Wogg",
+			"changeable": 0,
+			"ext": {
+				"siteUrl": ["https://www.wogg.one",
 					"https://wogg.333232.xyz",
-					"https://woggpan.888484.xyz""
-            },
-            "filterable": 1,
-            "indexs": 0,
-            "key": "csp_Wogg",
-            "name": "❤️玩偶-影",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-		        {
-            "api": "csp_Tzzy",
-            "changeable": 0,
-            "ext": ["tzfile.com"
-			],
-            "filterable": 0,
-            "indexs": 0,
-            "key": "tzzy",
-            "name": "🍺团长-影,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
+					"https://woggpan.888484.xyz"
+				]
+			},
+			"filterable": 1,
+			"indexs": 0,
+			"key": "csp_Wogg",
+			"name": "❤️玩偶-影",
+			"quickSearch": 1,
+			"searchable": 1,
+			"type": 3
+		},
+		{
+			"api": "csp_Tzzy",
+			"changeable": 0,
+			"ext": ["tzfile.com"],
+			"filterable": 0,
+			"indexs": 0,
+			"key": "tzzy",
+			"name": "🍺团长-影",
+			"quickSearch": 1,
+			"searchable": 1,
+			"type": 3
+		},
 		{
 			"key": "csp_XYQHiker_兔小贝",
 			"name": "兔小贝",
@@ -1532,7 +1532,7 @@
 			"url": "https://mpimg.cn/down.php/fab51348b898b528703adb9e1a4043f5.png",
 			"timeout": 10
 		},
-		
+
 		{
 			"name": "华丽",
 			"type": 0,
